@@ -18,4 +18,5 @@ A simple and intuitive To-Do List app to help you keep track of your daily tasks
 ## Installation
 
 1. Clone the repository:
-   ```bash https://github.com/Hassan1910/To-Do-List-App.git
+   ```bash
+   git clone [https://github.com/your-username/todo-list-app.git](https://github.com/Hassan1910/To-Do-List-App.git)
